@@ -60,7 +60,7 @@ namespace DLWMS.WinForms.IspitIB200106
                         brojac++;
                         for (int j = 0; j < polozeni.Count(); j++)
                         {
-                            predmeti += $"{polozeni[i].Predmet};";
+                            predmeti += $"{polozeni[j].Predmet};";
                         }
                     }                  
                     var red = tblStudenti.NewRow();
