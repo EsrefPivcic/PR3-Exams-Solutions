@@ -1,9 +1,7 @@
-# Programiranje-3-Ispiti-Rjesenja
- 
-Ovo su moja rješenja većine ispita koji su dostupni na FIT Community GitHubu.
+# PR3-Exams-Solutions
 
-Prije pokretanja rješenja uradite rebuild solution-a.
-Kada krenete raditi svoje rješenje, u postavci obrišite SqlServerTypes mapu i uradite rebuild. 
-Ukoliko budete imali neke nejasnoće ili nađete grešku u kodu, slobodno me kontaktirajte.
+These are my solutions to most of the exams available on the [FIT Community GitHub](https://github.com/FITCommunity/Programiranje-3).
 
-Mail: esref.pivcic@edu.fit.ba
+Before running the solutions, perform a "Rebuild Solution." If you encounter any issues or find errors in the code while working on your solutions, feel free to reach out to me.
+
+Email: esref.pivcic@edu.fit.ba
